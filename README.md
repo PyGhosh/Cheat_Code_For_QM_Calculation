@@ -1,4 +1,4 @@
-**`sequential_jobs.py` – Sequential batch runner for Gaussian, ORCA and Q-Chem jobs**
+#sequential_jobs.py` – Sequential batch runner for Gaussian, ORCA and Q-Chem jobs
 
 Runs quantum chemistry input files one after another on a local machine. It searches the current directory and all sub-directories, runs each job inside its own folder, and writes timestamped progress to `log.out`.
 
